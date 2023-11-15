@@ -1,15 +1,3 @@
-# 3.2-ngmunwai
-SCTP Cloud Engineering Module 3.2 Assignment
-
-About authentication to GitHub
-To keep your account secure, you must authenticate before you can access certain resources on GitHub. When you authenticate to GitHub, you supply or confirm credentials that are unique to you to prove that you are exactly who you declare to be.
-
-You can access your resources in GitHub in a variety of ways: in the browser, via GitHub Desktop or another desktop application, with the API, or via the command line. Each way of accessing GitHub supports different modes of authentication.
-
-Username and password with two-factor authentication, or a passkey
-Personal access token
-SSH key
-
 Authenticating in your browser
 If you're a member of an enterprise with managed users, you will authenticate to GitHub in your browser using your IdP. For more information, see "About Enterprise Managed Users" in the GitHub Enterprise Cloud documentation.
 
@@ -98,3 +86,10 @@ OAuth access token	gho_	"Authorizing OAuth apps"
 User access token for a GitHub App	ghu_	"Authenticating with a GitHub App on behalf of a user"
 Installation access token for a GitHub App	ghs_	"Authenticating as a GitHub App installation"
 Refresh token for a GitHub App	ghr_	"Refreshing user access tokens"
+
+4 MOST POPULAR GIT COMMAND
+- git clone  (Clone repository from github)
+- git init   (To create a new repository)
+- git add    (adds a change in the working directory to the staging area)
+- git commit (select the changes that will be staged for the next commit)
+- git push   (upload local repository content to a remote repository)
